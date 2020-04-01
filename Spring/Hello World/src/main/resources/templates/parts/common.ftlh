@@ -4,6 +4,7 @@
         <head>
             <meta charset="UTF-8">
             <title>Project1</title>
+            <link rel="stylesheet" href="/static/style.css">
         </head>
         <body>
             <#nested>
