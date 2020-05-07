@@ -1,0 +1,5 @@
+uploads
+.idea
+target
+application.properties
+Spring/Hello World/src/main/resources/application.properties
